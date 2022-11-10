@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CEP</string>
+    <string name="appname">Chef\'s Book</string>
+    <string name="slogan">One-stop for all your food cravings</string>
+    <string name="signinText">Sign In to continue</string>
+    <string name="welcombacktext">Welcome Back</string>
+    <string name="forgetpass">Forget Password?</string>
+    <string name="logintext">Log in</string>
+    <string name="newuserask">New User? SIGN UP</string>
+    <string name="welcometext">Welcome,</string>
+    <string name="signuptext">SignUp to start your new account</string>
+    <string name="signupbuttext">Sign Up</string>
+    <string name="signinask">ALREADY HAVE AN ACCOUNT? LOGIN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_info">Chef\'s Book is a mutually benficial bidirectional app , which allows the user to scroll through the app and get access to the recipe for what they are craving for at any time without hussle ,meanwhile/simultaneously this app also provide the option to the user that they can enter any recipe they are proficient in and can benefit others  High Five is one of the esteemed software development organization when it comes to app ,web development and many more .A karachi based company possesing highly skilled workers along withinnovative ideas  is inspiring and making the difference in the current market by bringing up innovative ideas to satisfy our clients to the fullest</string>
+</resources>
